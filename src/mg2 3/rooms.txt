@@ -1,0 +1,90 @@
+1
+Beginning
+You are standing at the end of a road before a dark and dank cave.
+The forest is covering the road lending a dark and
+spooky aspect to the road. You hear a low wailing that seems to be coming from the cave.
+(I recommend the going to room 2)
+exits
+-----
+SOUTH 2
+WEST 7
+EAST 3
+NORTH 6
+-----
+2
+Facing your 1st Challenge (I think)
+You walk into a room and you see... A OGRE! (Not the Shrek-type, I mean
+the myth-accurate, smelly, nasty, mean, and ugly as-you-know-what type ogre)
+You reach for your weapon... but you realize you don't have one!!!
+What should you do?? Fight or flight?
+exits
+----
+EAST 3
+NORTH 1
+SOUTH 4
+----
+3
+Resting Period (You're 1st... I hope)
+Yes you read this right... if you have taken some damage please replenish
+your health.  Or this can be a good place to actually take some rest...
+exits
+----
+WEST 2
+----
+4
+First Item (Hopefully)
+You got your first item. YAYYYYYYY!!!!!
+Your first item is: a Health Potion. (Use it carefully)
+exits
+----
+NORTH 2
+----
+5
+Rest
+Please rest, you need it.
+exits
+----
+NORTH 7
+----
+6
+Another one...
+Item: Basic Sword. Use it to kill, duh.
+exits
+----
+SOUTH 1
+----
+7
+Dragon
+Yes... a fire breathing lizard. Hopefully you already have a weapon to fight that
+thing. If not... Good Luck.  If you do, KILL IT!
+exits
+----
+EAST 1
+SOUTH 5
+----
+8
+Cerberus
+This three-headed beast of Hades is hungry. Clawing for some action.
+You going to him a fight?
+exits
+SIDENOTE: You may get a little prize... possible an upgrade?
+----
+SOUTH 9
+WEST 3
+NORTH 10
+----
+9
+Rest... One last time
+Here are a few things before you go to the last boss.
+Some health potions & weapon upgrades
+exits
+----
+NORTH 8
+----
+10
+Zeus
+ZEUS YOUR SON HAS RETURNED! AND WITH THE DESTRUCTION OF OLYMPUS.
+It is time to end this.
+exits
+----
+END 0

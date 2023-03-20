@@ -1,0 +1,11 @@
+ITEM 1
+----
+Sword: the most basic of weapons. Use it to kill enemies.
+----
+ITEM 2
+----
+Health potion: Heals some certain percentage of your health after battles.
+----
+ITEM 3
+----
+Weapon Upgrader: Levels up your sword to deal more damage
